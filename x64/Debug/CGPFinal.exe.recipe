@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Zach\source\repos\CGPFinal\x64\Debug\CGPFinal.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Zach\source\repos\CGPFinal\CGPFinal\arial32.spritefont</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Zach\source\repos\CGPFinal\CGPFinal\throne.png</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
