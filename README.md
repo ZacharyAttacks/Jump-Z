@@ -1,6 +1,6 @@
 **Jump‑Z**
 
-**A DirectX‑powered vertical‑jump platformer in C++.**
+A DirectX‑powered vertical‑jump platformer in C++.
 
 Keep jumping until you reach the top.··  
 Don't stop jumping.··  
